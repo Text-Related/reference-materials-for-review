@@ -1,0 +1,1 @@
+def func(s):        print('in function:'+s)    return("Hello,world")s=func("How are you")print('in main program:'+s)
