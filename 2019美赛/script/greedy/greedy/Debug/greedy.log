@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\desktop\greedy\greedy\main.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+d:\desktop\greedy\greedy\main.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+  greedy.vcxproj -> D:\Desktop\greedy\Debug\greedy.exe
